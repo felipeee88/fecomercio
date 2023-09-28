@@ -1,0 +1,15 @@
+C:\Fontes\teste\Fecomercio\Fecomercio.Application\bin\Debug\net6.0\Fecomercio.Application.deps.json
+C:\Fontes\teste\Fecomercio\Fecomercio.Application\bin\Debug\net6.0\Fecomercio.Application.dll
+C:\Fontes\teste\Fecomercio\Fecomercio.Application\bin\Debug\net6.0\Fecomercio.Application.pdb
+C:\Fontes\teste\Fecomercio\Fecomercio.Application\bin\Debug\net6.0\Fecomercio.Domain.dll
+C:\Fontes\teste\Fecomercio\Fecomercio.Application\bin\Debug\net6.0\Fecomercio.Domain.pdb
+C:\Fontes\teste\Fecomercio\Fecomercio.Application\obj\Debug\net6.0\Fecomercio.Application.csproj.AssemblyReference.cache
+C:\Fontes\teste\Fecomercio\Fecomercio.Application\obj\Debug\net6.0\Fecomercio.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fontes\teste\Fecomercio\Fecomercio.Application\obj\Debug\net6.0\Fecomercio.Application.AssemblyInfoInputs.cache
+C:\Fontes\teste\Fecomercio\Fecomercio.Application\obj\Debug\net6.0\Fecomercio.Application.AssemblyInfo.cs
+C:\Fontes\teste\Fecomercio\Fecomercio.Application\obj\Debug\net6.0\Fecomercio.Application.csproj.CoreCompileInputs.cache
+C:\Fontes\teste\Fecomercio\Fecomercio.Application\obj\Debug\net6.0\Fecomercio.Application.csproj.CopyComplete
+C:\Fontes\teste\Fecomercio\Fecomercio.Application\obj\Debug\net6.0\Fecomercio.Application.dll
+C:\Fontes\teste\Fecomercio\Fecomercio.Application\obj\Debug\net6.0\refint\Fecomercio.Application.dll
+C:\Fontes\teste\Fecomercio\Fecomercio.Application\obj\Debug\net6.0\Fecomercio.Application.pdb
+C:\Fontes\teste\Fecomercio\Fecomercio.Application\obj\Debug\net6.0\ref\Fecomercio.Application.dll

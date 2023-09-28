@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8fR4Qe6SE03NEN4KDmQCnafGTtFOxm2uVkHmIZcZjDnGY/PLwmxnfDIX/FF4m69+Kwo18nRKZGFjMkpM5m8dMA==",
+  "success": true,
+  "projectFilePath": "C:\\Fontes\\teste\\Fecomercio\\Fecomercio.Application\\Fecomercio.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

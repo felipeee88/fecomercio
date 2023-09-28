@@ -1,0 +1,86 @@
+﻿@model Fecomercio.Application.DTO.BoletoDTO
+
+@{
+    ViewData["Title"] = "Gerar Boleto";
+}
+
+<h1>GerarBoleto</h1>
+
+<h4>BoletoDTO</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="GerarBoleto">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Id" class="control-label"></label>
+                <input asp-for="Id" class="form-control" />
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Numero" class="control-label"></label>
+                <input asp-for="Numero" class="form-control" />
+                <span asp-validation-for="Numero" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Vencimento" class="control-label"></label>
+                <input asp-for="Vencimento" class="form-control" />
+                <span asp-validation-for="Vencimento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Valor" class="control-label"></label>
+                <input asp-for="Valor" class="form-control" />
+                <span asp-validation-for="Valor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cedente" class="control-label"></label>
+                <input asp-for="Cedente" class="form-control" />
+                <span asp-validation-for="Cedente" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Documento" class="control-label"></label>
+                <input asp-for="Documento" class="form-control" />
+                <span asp-validation-for="Documento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Sacado" class="control-label"></label>
+                <input asp-for="Sacado" class="form-control" />
+                <span asp-validation-for="Sacado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NossoNumero" class="control-label"></label>
+                <input asp-for="NossoNumero" class="form-control" />
+                <span asp-validation-for="NossoNumero" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Agencia" class="control-label"></label>
+                <input asp-for="Agencia" class="form-control" />
+                <span asp-validation-for="Agencia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Conta" class="control-label"></label>
+                <input asp-for="Conta" class="form-control" />
+                <span asp-validation-for="Conta" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CodigoDeBarras" class="control-label"></label>
+                <input asp-for="CodigoDeBarras" class="form-control" />
+                <span asp-validation-for="CodigoDeBarras" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LinhaDigitavel" class="control-label"></label>
+                <input asp-for="LinhaDigitavel" class="form-control" />
+                <span asp-validation-for="LinhaDigitavel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
